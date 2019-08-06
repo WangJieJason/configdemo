@@ -12,9 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="config-client" target="1.8" />
+      <module name="config-client" target="1.5" />
       <module name="config-server" target="1.8" />
-      <module name="eurekaserver" target="1.8" />
+      <module name="eurekaserver" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
